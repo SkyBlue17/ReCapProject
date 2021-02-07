@@ -1,0 +1,14 @@
+C:\Users\burak\OneDrive\Masaüstü\Yazılım\ReCapProject\ReCapProject\Business\bin\Debug\netstandard2.0\Business.deps.json
+C:\Users\burak\OneDrive\Masaüstü\Yazılım\ReCapProject\ReCapProject\Business\bin\Debug\netstandard2.0\Business.dll
+C:\Users\burak\OneDrive\Masaüstü\Yazılım\ReCapProject\ReCapProject\Business\bin\Debug\netstandard2.0\Business.pdb
+C:\Users\burak\OneDrive\Masaüstü\Yazılım\ReCapProject\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\burak\OneDrive\Masaüstü\Yazılım\ReCapProject\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\burak\OneDrive\Masaüstü\Yazılım\ReCapProject\ReCapProject\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\burak\OneDrive\Masaüstü\Yazılım\ReCapProject\ReCapProject\Business\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\burak\OneDrive\Masaüstü\Yazılım\ReCapProject\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Yazılım\ReCapProject\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Yazılım\ReCapProject\ReCapProject\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\Yazılım\ReCapProject\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Yazılım\ReCapProject\ReCapProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+C:\Users\burak\OneDrive\Masaüstü\Yazılım\ReCapProject\ReCapProject\Business\obj\Debug\netstandard2.0\Business.dll
+C:\Users\burak\OneDrive\Masaüstü\Yazılım\ReCapProject\ReCapProject\Business\obj\Debug\netstandard2.0\Business.pdb
